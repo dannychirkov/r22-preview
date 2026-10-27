@@ -1,0 +1,5 @@
+node_modules/
+src/
+deploy.sh
+package.json
+package-lock.json
