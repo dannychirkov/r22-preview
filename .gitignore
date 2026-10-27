@@ -3,3 +3,4 @@ src/
 deploy.sh
 package.json
 package-lock.json
+public/
